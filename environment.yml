@@ -1,0 +1,16 @@
+name: nepal-earthquake
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pytest
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - nbconvert
+  - nbstripout
+  - jupyterlab-git
+  - nb_conda_kernels
